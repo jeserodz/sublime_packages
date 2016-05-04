@@ -1,11 +1,24 @@
 {
-	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
-	"font_size": 12,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_size": 11,
 	"ignored_packages":
 	[
+		"JsFormat",
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"material_theme_appbar_purple": true,
+	"material_theme_tree_headings": true,
+	"overlay_scroll_bars": "enabled",
 	"tab_size": 2,
 	"tabs_small": true,
-	"theme": "Afterglow-blue.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme"
 }
